@@ -23,7 +23,8 @@ Analyzing student performance data to identify key factors influencing **Math ac
 <h2 id="overview">Overview</h2>
 
 This project analyzes student-level education data to determine which school, teacher, and socio-economic factors most strongly impact **Math performance**. Using statistical analysis, visualizations, and a baseline Linear Regression model, the study provides **actionable insights and recommendations** to improve learning outcomes.
-
+**🔗 Live Dashboard:**  
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjU1ZWQ4N2QtMmMzOC00ZTRlLThiMDktNGI0YTZmYTE4ZjJlIiwidCI6IjVjZTJiMzZmLTA0OTMtNGU5MC1hOWJjLThmNWFhYTc1OTQ2ZCJ9)
 ---
 
 <h2 id="business-problem">Business Problem</h2>
